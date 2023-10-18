@@ -24,6 +24,7 @@ This repository contains code for a simple neural network implemented using Tens
 
    ```bash
    git clone https://github.com/your-username/mnist-digit-classification.git
+
 Install the required Python packages:
 
 pip install tensorflow numpy pandas matplotlib scikit-learn
